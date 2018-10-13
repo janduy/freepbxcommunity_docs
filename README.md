@@ -1,7 +1,6 @@
 # freepbx-advanced
-Repositórios  para capacitação FreePBX Advanced 
 
-Links para download dos pacotes
+Links para download dos pacotes para instalação do asterisk 14 no FreePBX 14
 
 Asterisk 14 </br>
 <b>Link:</b> wget -O asterisk14 https://goo.gl/Fvpngr
